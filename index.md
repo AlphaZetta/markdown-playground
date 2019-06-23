@@ -58,6 +58,11 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
+| word | word 2      |
+|:-----|:------------|
+| t-gei| is a turtle |
+| t-gei| is a turtle |
+
 ### There's a horizontal rule below this.
 
 * * *
